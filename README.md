@@ -1,2 +1,2 @@
-Peer Review- 
-Review
+Peer Review- Zahid Afsar
+Review : : Your code functions well when tested both on swagger and postman. I have a small suggestion which would be to give people more tries for guess it because they only get one try but that could be just how your game was meant to be. Another thing is for the restaurant you could put the choices AsianFoodFastFoodMexicanFood instead of hunger so people can know what to type instead of going back to the code. Also One last thing not really a problem but restaurant was mispelled so at first I thought postman was not working but i just had to type resturant. Overall I would say you did a great job on this. Nice work!
