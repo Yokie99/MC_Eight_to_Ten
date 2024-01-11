@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MC_Eight_to_Ten.props" />
+</Project>

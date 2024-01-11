@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MC_Eight_to_Ten.props" />
+</Project>
