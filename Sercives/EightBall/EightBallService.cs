@@ -8,7 +8,7 @@ namespace MC_Eight_to_Ten.Sercives.EightBall
         public string magic()
         {
             var rand = new Random();
-            string[] results = {"res1", "res2", "res3", "res4", "res5", "res6", "res7", "res8"};
+            string[] results = {"Yes", "No", "Maybe", "100%", "signs point to yes", "signs point to no", "Probably not", "I cant predict right now"};
             return results[rand.Next(7)];
         }
     }
